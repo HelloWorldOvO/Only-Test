@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoTestTests", "AutoTestTests\AutoTestTests.csproj", "{5BBE518E-2DE0-45BC-80D0-7EB2964CC8E3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoTest", "..\CSharp-Auto-Test\AutoTest\AutoTest.csproj", "{26BF0638-B059-4FFF-AC7A-0C531E6192DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoTest", "AutoTest\AutoTest.csproj", "{CE614B92-BA71-49DF-A15B-CB7747828521}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5BBE518E-2DE0-45BC-80D0-7EB2964CC8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BBE518E-2DE0-45BC-80D0-7EB2964CC8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BBE518E-2DE0-45BC-80D0-7EB2964CC8E3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{26BF0638-B059-4FFF-AC7A-0C531E6192DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26BF0638-B059-4FFF-AC7A-0C531E6192DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26BF0638-B059-4FFF-AC7A-0C531E6192DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26BF0638-B059-4FFF-AC7A-0C531E6192DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE614B92-BA71-49DF-A15B-CB7747828521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE614B92-BA71-49DF-A15B-CB7747828521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE614B92-BA71-49DF-A15B-CB7747828521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE614B92-BA71-49DF-A15B-CB7747828521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
