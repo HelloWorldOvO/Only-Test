@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AutoTest": {
+      "commandName": "Project",
+      "commandLineArgs": "88 99"
+    }
+  }
+}
